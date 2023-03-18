@@ -774,6 +774,13 @@ body {
     margin-top: 8px;
 }
 
+.form-information-first{
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    color: var(--color-customers-border);
+}
+
 .modal-text {
     font-size: 12px;
     line-height: 1.166;
